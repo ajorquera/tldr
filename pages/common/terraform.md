@@ -19,9 +19,9 @@
 
 `terraform plan`
 
-- Build or change infrastructure:
+- Build or change infrastructure without prompt:
 
-`terraform apply`
+`terraform apply -auto-approve`
 
 - Destroy Terraform-managed infrastructure:
 
